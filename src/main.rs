@@ -1,6 +1,7 @@
 mod celsius_fahrenheit_calculator;
 mod factorialize;
-mod largest_of_four_strings;
+mod largest_array_in_array;
+mod largest_sum_in_array;
 mod longest_word_in_a_string;
 mod reverse_string;
 fn main() {
