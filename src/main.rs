@@ -5,6 +5,7 @@ mod largest_sum_in_array;
 mod longest_word_in_a_string;
 mod repeat_string;
 mod reverse_string;
+mod truncate_string;
 mod word_ends_with;
 fn main() {
     println!("Hello, world!");
