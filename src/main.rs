@@ -8,6 +8,7 @@ mod reverse_string;
 mod title_case;
 mod truncate_string;
 mod word_ends_with;
+mod get_index_to_ins;
 fn main() {
     println!("Hello, world!");
 }
