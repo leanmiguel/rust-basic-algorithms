@@ -9,6 +9,7 @@ mod title_case;
 mod truncate_string;
 mod word_ends_with;
 mod get_index_to_ins;
+mod is_mutated;
 fn main() {
     println!("Hello, world!");
 }
